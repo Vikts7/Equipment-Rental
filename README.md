@@ -8,12 +8,13 @@
 
 Frontend: React + Vite
 Backend: Node.js
-Database: PostgreSQL
+Database: PostgreSQL pgAdmin4
 ORM: Sequelize
 Nodemailer
 JWT
 
 Системата поддържа два типа потребители:
+Първи регистриран потрбител получава роля админ
 
 Администратор
 Обикновен потребител
