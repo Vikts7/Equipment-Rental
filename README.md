@@ -1,5 +1,5 @@
 # Equipment-Rental
- Video YouTube: https://example.com](https://youtu.be/7HRDtHvA3ro
+ Video YouTube: https://youtu.be/7HRDtHvA3ro
 
 Държавен изпит 2026 ИТ Кариера Виктория Цачева
 
